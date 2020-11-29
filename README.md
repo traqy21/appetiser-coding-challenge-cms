@@ -1,4 +1,4 @@
-# Appetiser coding challenge
+# Appetiser coding challenge - FRONTEND
 
 This is the Appetiser coding challenge frontend project used in the challenge.
 
