@@ -1,0 +1,15 @@
+ @media print {
+    @page {
+        size: A4;
+        width: 210mm; 
+        height: 296mm; 
+        margin: 0; 
+
+        
+    };
+
+    .printonly { display:block; }
+    .noprint { display: none } 
+    .dv-receipt { width: 148mm }
+}
+ 
